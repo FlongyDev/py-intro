@@ -1,7 +1,7 @@
 # Знакомство с языком
 
 ## Вступление
-- Скачать интерпретатор на [python.org](python.org);
+- Скачать интерпретатор на [python.org](https://python.org);
 - Выбрать среду разработки/текстовый редактор:
     - IDLE (обычно в комплекте с установщиком),
     - [Notepad++](https://notepad-plus-plus.org/),
@@ -11,7 +11,7 @@
     - [Thonny](https://thonny.org/),
     - [Spyder](https://www.spyder-ide.org/),
     - и многие другие!
-- [Документация](docs.python.org).
+- [Документация](https://docs.python.org).
 
 ## Элементы языка
 - [Ввод и вывод](part1-IO.py);
@@ -22,4 +22,4 @@
     - `list`, `tuple`, `str` - [пример](part4_2-types.py);
 - [Циклы](part5-loops.py) `for` и `while`;
 - [Функции](part6-functions.py);
-- [Модули](part7-modules.py).
+- [Модули](part7-modules.py). (Ресурс, на котором публикуются пользовательские модули: [pypi.org](https://pypi.org/)). 
