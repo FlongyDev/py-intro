@@ -1,5 +1,8 @@
 # Знакомство с языком
 
+## Видео
+[![Видео](https://img.youtube.com/vi/_vtpqoQ5dMw/maxresdefault.jpg)](https://youtu.be/_vtpqoQ5dMw)
+
 ## Вступление
 - Скачать интерпретатор на [python.org](https://python.org);
 - Выбрать среду разработки/текстовый редактор:
